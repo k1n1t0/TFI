@@ -2,7 +2,7 @@
 Trabajo Final Integrador
 *************************
 
-Se detallan los pasos a seguir para la creación y carga de datos dentro de una base de datos en PostgreSQL:
+Pasos a seguir :
 
   1) Crear en PostgreSQL la base de datos TFI.
   
